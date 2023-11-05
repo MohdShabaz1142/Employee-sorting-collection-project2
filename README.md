@@ -1,2 +1,2 @@
 # Employee-sorting-collection-project2
-sorting the employees byName, byid and bySalary 
+Simple java project using collecion as database and sorting the employees byName, byid and bySalary 
